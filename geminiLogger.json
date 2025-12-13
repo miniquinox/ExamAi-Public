@@ -789,5 +789,12 @@
     "start_date": "2025-12-08",
     "commit_count": 10,
     "release_notes": "• **PDF Submissions**: You can now view and access original PDF submissions directly within the grading interface.\n• **Enterprise Management**: Added the ability to edit student names inline directly from the Enterprise course view.\n• **Localization**: Added French language support for student grades and chart components, along with improved translation consistency across the dashboard.\n• **Performance**: Optimized application loading speeds and backend processing for faster grading results."
+  },
+  {
+    "label": "Daily Update - Dec 12th",
+    "type": "day",
+    "start_date": "2025-12-12",
+    "commit_count": 18,
+    "release_notes": "• **New Community Forum**: Introduced a dedicated space for users to discuss topics, share insights, and connect with peers.\n• **Visual Refresh**: Refined the design of dialogs and the EasyGrade selector with a modern color scheme and improved accessibility.\n• **AI Engine Enhancements**: Upgraded the underlying AI models to provide more robust and reliable grading performance.\n• **Dashboard Improvements**: Updated the main dashboard interface for a smoother user experience.\n• **Bug Fixes**: Resolved an issue with grading schedules and applied general backend optimizations for better stability."
   }
 ]
