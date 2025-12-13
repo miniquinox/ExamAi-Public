@@ -789,19 +789,5 @@
     "start_date": "2025-12-08",
     "commit_count": 10,
     "release_notes": "• **PDF Submissions**: You can now view and access original PDF submissions directly within the grading interface.\n• **Enterprise Management**: Added the ability to edit student names inline directly from the Enterprise course view.\n• **Localization**: Added French language support for student grades and chart components, along with improved translation consistency across the dashboard.\n• **Performance**: Optimized application loading speeds and backend processing for faster grading results."
-  },
-  {
-    "label": "Week 34 - Dec 8th to 14th",
-    "type": "week",
-    "start_date": "2025-12-08",
-    "commit_count": 16,
-    "release_notes": "• **New Community Forum**: Introduced a dedicated discussion space for users to connect, ask questions, and share insights.\n• **Exam Management**: Streamlined the exam creation process with improved logic for syncing student lists and courses.\n• **Enterprise Customization**: Enhanced support for custom organization branding and smarter language detection for enterprise portals.\n• **AI Infrastructure**: Upgraded the grading engine backend to improve the reliability and performance of AI-powered assessments.\n• **General Improvements**: Various performance optimizations and stability fixes to ensure a smoother experience."
-  },
-  {
-    "label": "Daily Update - Dec 12th",
-    "type": "day",
-    "start_date": "2025-12-12",
-    "commit_count": 11,
-    "release_notes": "• **AI Engine Upgrades:** Integrated the latest AI model improvements to enhance grading accuracy and system stability.\n• **Visual Refresh:** Updated dialogs and selectors with a modernized color scheme and improved visibility for focus states.\n• **Grading Reliability:** Resolved an issue with scheduled grading to ensure ungraded answers are processed correctly.\n• **Backend Improvements:** Optimized internal API handling for better performance and connectivity."
   }
 ]
