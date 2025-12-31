@@ -796,5 +796,12 @@
     "start_date": "2025-12-12",
     "commit_count": 18,
     "release_notes": "• **New Community Forum**: Introduced a dedicated space for users to discuss topics, share insights, and connect with peers.\n• **Visual Refresh**: Refined the design of dialogs and the EasyGrade selector with a modern color scheme and improved accessibility.\n• **AI Engine Enhancements**: Upgraded the underlying AI models to provide more robust and reliable grading performance.\n• **Dashboard Improvements**: Updated the main dashboard interface for a smoother user experience.\n• **Bug Fixes**: Resolved an issue with grading schedules and applied general backend optimizations for better stability."
+  },
+  {
+    "label": "Daily Update - Dec 31st",
+    "type": "day",
+    "start_date": "2025-12-31",
+    "commit_count": 28,
+    "release_notes": "• **Enhanced Security**: Implemented significant upgrades to data protection protocols for professor and administrator accounts.\n• **Student Privacy**: Strengthened access controls to ensure student data remains strictly confidential and accessible only to authorized users.\n• **Demo Exams**: Improved the reliability and performance of the sample exam generation tool.\n• **Rubric Management**: Refined permission settings to ensure grading rubrics are accessed securely.\n• **Performance Improvements**: Includes various backend optimizations and stability enhancements."
   }
 ]
