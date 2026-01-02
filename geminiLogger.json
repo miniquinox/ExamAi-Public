@@ -803,5 +803,12 @@
     "start_date": "2025-12-31",
     "commit_count": 28,
     "release_notes": "• **Enhanced Security**: Implemented significant upgrades to data protection protocols for professor and administrator accounts.\n• **Student Privacy**: Strengthened access controls to ensure student data remains strictly confidential and accessible only to authorized users.\n• **Demo Exams**: Improved the reliability and performance of the sample exam generation tool.\n• **Rubric Management**: Refined permission settings to ensure grading rubrics are accessed securely.\n• **Performance Improvements**: Includes various backend optimizations and stability enhancements."
+  },
+  {
+    "label": "Daily Update - Jan 2nd",
+    "type": "day",
+    "start_date": "2026-01-02",
+    "commit_count": 19,
+    "release_notes": "• **Interactive Demo Mode:** Experience the full ExamAI workflow—from question generation to AI grading and analytics—with a new built-in demonstration tool.\n• **Enhanced Language Support:** AI grading now automatically adapts to the specific language settings defined in your exam preferences for more accurate, localized results.\n• **Grading Reliability:** Implemented a new queuing system for PDF and Easy Grading batches to ensure smoother processing and improved stability during high-volume tasks.\n• **Expanded Feedback View:** Grading feedback is no longer truncated, allowing you to view complete comments and summaries directly in the results interface.\n• **Student Management:** Improved the accuracy of student lists within the grading tab to ensure all submissions are visible and properly tracked.\n• **Performance Improvements:** Includes various backend optimizations to speed up grading progress updates and general application responsiveness."
   }
 ]
