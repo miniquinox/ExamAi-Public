@@ -810,5 +810,12 @@
     "start_date": "2026-01-02",
     "commit_count": 19,
     "release_notes": "• **Interactive Demo Mode:** Experience the full ExamAI workflow—from question generation to AI grading and analytics—with a new built-in demonstration tool.\n• **Enhanced Language Support:** AI grading now automatically adapts to the specific language settings defined in your exam preferences for more accurate, localized results.\n• **Grading Reliability:** Implemented a new queuing system for PDF and Easy Grading batches to ensure smoother processing and improved stability during high-volume tasks.\n• **Expanded Feedback View:** Grading feedback is no longer truncated, allowing you to view complete comments and summaries directly in the results interface.\n• **Student Management:** Improved the accuracy of student lists within the grading tab to ensure all submissions are visible and properly tracked.\n• **Performance Improvements:** Includes various backend optimizations to speed up grading progress updates and general application responsiveness."
+  },
+  {
+    "label": "Daily Update - Jan 13th",
+    "type": "day",
+    "start_date": "2026-01-13",
+    "commit_count": 42,
+    "release_notes": "• **Turbo QR Grading:** Experience a significantly faster grading workflow with live scan progress, real-time page thumbnails, and optimized support for large PDF uploads.\n\n• **Smart Page Detection:** Introduced pattern-based extrapolation to automatically identify student pages even when QR codes are partially obscured, along with new controls for manual page assignment.\n\n• **Enterprise Management:** Administrators can now quickly copy signup links for inactive users directly from the user management table to streamline onboarding.\n\n• **Student Organization:** Improved email handling logic ensures student records are matched and de-duplicated correctly, regardless of input capitalization.\n\n• **Performance & Stability:** Enhanced backend reliability for grading pipelines, improved error recovery, and resolved visual glitches during page loading."
   }
 ]
