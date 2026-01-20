@@ -817,5 +817,12 @@
     "start_date": "2026-01-13",
     "commit_count": 42,
     "release_notes": "• **Turbo QR Grading:** Experience a significantly faster grading workflow with live scan progress, real-time page thumbnails, and optimized support for large PDF uploads.\n\n• **Smart Page Detection:** Introduced pattern-based extrapolation to automatically identify student pages even when QR codes are partially obscured, along with new controls for manual page assignment.\n\n• **Enterprise Management:** Administrators can now quickly copy signup links for inactive users directly from the user management table to streamline onboarding.\n\n• **Student Organization:** Improved email handling logic ensures student records are matched and de-duplicated correctly, regardless of input capitalization.\n\n• **Performance & Stability:** Enhanced backend reliability for grading pipelines, improved error recovery, and resolved visual glitches during page loading."
+  },
+  {
+    "label": "Daily Update - Jan 20th",
+    "type": "day",
+    "start_date": "2026-01-20",
+    "commit_count": 22,
+    "release_notes": "• **Audio Notes:** You can now record, manage, and view lecture notes directly within the student and professor dashboards.\n• **File Uploads:** Added support for uploading external audio files (MP3, WAV, M4A, and more) directly into the recording interface.\n• **Enhanced Transcription:** Significantly improved AI processing for long lectures, now supporting recordings up to 3 hours with smarter, content-responsive note generation.\n• **Interface Polish:** Refined the Dark Mode experience for recordings and improved the clarity of status notifications during the grading process.\n• **Localization:** Expanded language support with new translations for the grading UI and audio features, including improved support for French.\n• **Performance:** optimized background processing to ensure smoother handling of large media files."
   }
 ]
