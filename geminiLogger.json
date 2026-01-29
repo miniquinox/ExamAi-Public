@@ -824,5 +824,12 @@
     "start_date": "2026-01-20",
     "commit_count": 22,
     "release_notes": "• **Audio Notes:** You can now record, manage, and view lecture notes directly within the student and professor dashboards.\n• **File Uploads:** Added support for uploading external audio files (MP3, WAV, M4A, and more) directly into the recording interface.\n• **Enhanced Transcription:** Significantly improved AI processing for long lectures, now supporting recordings up to 3 hours with smarter, content-responsive note generation.\n• **Interface Polish:** Refined the Dark Mode experience for recordings and improved the clarity of status notifications during the grading process.\n• **Localization:** Expanded language support with new translations for the grading UI and audio features, including improved support for French.\n• **Performance:** optimized background processing to ensure smoother handling of large media files."
+  },
+  {
+    "label": "Daily Update - Jan 29th",
+    "type": "day",
+    "start_date": "2026-01-29",
+    "commit_count": 40,
+    "release_notes": "• **Enterprise Content Control:** Administrators can now manage and restrict student access to specific course materials directly from the dashboard.\n• **Localization Support:** We’ve expanded our language options with new Portuguese translations for a better global experience.\n• **Visual Enhancements:** The user interface has been polished to provide a cleaner, more intuitive experience.\n• **Performance & Stability:** Includes under-the-hood improvements and foundational updates to ensure the app runs smoothly across all platforms."
   }
 ]
