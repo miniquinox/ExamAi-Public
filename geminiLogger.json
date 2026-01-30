@@ -831,5 +831,12 @@
     "start_date": "2026-01-29",
     "commit_count": 40,
     "release_notes": "• **Enterprise Content Control:** Administrators can now manage and restrict student access to specific course materials directly from the dashboard.\n• **Localization Support:** We’ve expanded our language options with new Portuguese translations for a better global experience.\n• **Visual Enhancements:** The user interface has been polished to provide a cleaner, more intuitive experience.\n• **Performance & Stability:** Includes under-the-hood improvements and foundational updates to ensure the app runs smoothly across all platforms."
+  },
+  {
+    "label": "Daily Update - Jan 30th",
+    "type": "day",
+    "start_date": "2026-01-30",
+    "commit_count": 24,
+    "release_notes": "• **Score Consistency:** Unified numeric formatting across student and professor views to ensure grades are always displayed clearly with two decimal places.\n• **Enterprise Insights:** Introduced a new Usage dashboard allowing administrators to view detailed grading logs and activity groups.\n• **Internationalization:** Added multi-language support for the Enterprise Usage panel and content management notifications.\n• **Stability & Performance:** Enhanced authentication flows and improved reliability when saving application themes and settings."
   }
 ]
