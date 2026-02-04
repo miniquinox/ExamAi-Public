@@ -838,5 +838,12 @@
     "start_date": "2026-01-30",
     "commit_count": 24,
     "release_notes": "• **Score Consistency:** Unified numeric formatting across student and professor views to ensure grades are always displayed clearly with two decimal places.\n• **Enterprise Insights:** Introduced a new Usage dashboard allowing administrators to view detailed grading logs and activity groups.\n• **Internationalization:** Added multi-language support for the Enterprise Usage panel and content management notifications.\n• **Stability & Performance:** Enhanced authentication flows and improved reliability when saving application themes and settings."
+  },
+  {
+    "label": "Daily Update - Feb 4th",
+    "type": "day",
+    "start_date": "2026-02-04",
+    "commit_count": 35,
+    "release_notes": "• **Performance improvements** for the student dashboard and exam loading times, ensuring a faster experience.\n• **Expanded exam visibility** allows students to access exams assigned directly to them, independent of course enrollment.\n• **Enhanced stability** when viewing detailed exam results to prevent connection timeouts.\n• **Backend optimizations** to improve overall platform reliability and data integrity.\n• **User interface updates** for a smoother and more consistent navigation experience."
   }
 ]
