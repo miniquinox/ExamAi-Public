@@ -845,5 +845,12 @@
     "start_date": "2026-02-04",
     "commit_count": 35,
     "release_notes": "• **Performance improvements** for the student dashboard and exam loading times, ensuring a faster experience.\n• **Expanded exam visibility** allows students to access exams assigned directly to them, independent of course enrollment.\n• **Enhanced stability** when viewing detailed exam results to prevent connection timeouts.\n• **Backend optimizations** to improve overall platform reliability and data integrity.\n• **User interface updates** for a smoother and more consistent navigation experience."
+  },
+  {
+    "label": "Daily Update - Feb 27th",
+    "type": "day",
+    "start_date": "2026-02-27",
+    "commit_count": 69,
+    "release_notes": "• **Localization support:** We’ve updated the interface to support internationalization, paving the way for a multi-language experience in the exam creation and review screens.\n• **Enhanced security:** Implemented comprehensive security upgrades and stricter authentication checks to ensure exam data and student submissions remain secure.\n• **In-app updates:** Added a new notification banner to let you know immediately when the latest features and fixes are available.\n• **AI reliability:** Improved the stability of the AI grading engine to ensure consistent analysis and reduce processing errors.\n• **Performance improvements:** Includes general backend optimizations and stability fixes to make the platform faster and more reliable."
   }
 ]
