@@ -852,5 +852,12 @@
     "start_date": "2026-02-27",
     "commit_count": 69,
     "release_notes": "• **Localization support:** We’ve updated the interface to support internationalization, paving the way for a multi-language experience in the exam creation and review screens.\n• **Enhanced security:** Implemented comprehensive security upgrades and stricter authentication checks to ensure exam data and student submissions remain secure.\n• **In-app updates:** Added a new notification banner to let you know immediately when the latest features and fixes are available.\n• **AI reliability:** Improved the stability of the AI grading engine to ensure consistent analysis and reduce processing errors.\n• **Performance improvements:** Includes general backend optimizations and stability fixes to make the platform faster and more reliable."
+  },
+  {
+    "label": "Daily Update - Mar 12th",
+    "type": "day",
+    "start_date": "2026-03-12",
+    "commit_count": 25,
+    "release_notes": "• Introduces a new **AI Editor Assistant**, allowing you to interact directly with ExamAI via a dedicated chat panel to brainstorm, edit, and refine content.\n• Adds support for **real-time streaming**, ensuring faster and more fluid responses during AI interactions within the lesson editor.\n• Enhanced **exam security** logic to ensure exam locking rules are enforced consistently and robustly.\n• Includes various **performance improvements** and backend optimizations for smoother site navigation and better reliability."
   }
 ]
