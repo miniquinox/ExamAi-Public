@@ -859,5 +859,12 @@
     "start_date": "2026-03-12",
     "commit_count": 25,
     "release_notes": "• Introduces a new **AI Editor Assistant**, allowing you to interact directly with ExamAI via a dedicated chat panel to brainstorm, edit, and refine content.\n• Adds support for **real-time streaming**, ensuring faster and more fluid responses during AI interactions within the lesson editor.\n• Enhanced **exam security** logic to ensure exam locking rules are enforced consistently and robustly.\n• Includes various **performance improvements** and backend optimizations for smoother site navigation and better reliability."
+  },
+  {
+    "label": "Week 13 - Mar 23rd to 29th",
+    "type": "week",
+    "start_date": "2026-03-23",
+    "commit_count": 15,
+    "release_notes": "• General bug fixes and improvements"
   }
 ]
