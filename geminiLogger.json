@@ -847,45 +847,129 @@
     "release_notes": "• **Performance improvements** for the student dashboard and exam loading times, ensuring a faster experience.\n• **Expanded exam visibility** allows students to access exams assigned directly to them, independent of course enrollment.\n• **Enhanced stability** when viewing detailed exam results to prevent connection timeouts.\n• **Backend optimizations** to improve overall platform reliability and data integrity.\n• **User interface updates** for a smoother and more consistent navigation experience."
   },
   {
-    "label": "Daily Update - Feb 27th",
+    "label": "Week 34 - Feb 23rd to Mar 1st",
+    "type": "week",
+    "start_date": "2026-02-23",
+    "commit_count": 1,
+    "release_notes": "• **Grading improvements** to enhance the accuracy and reliability of exam evaluations.\n• **Billing updates** for a smoother and more seamless account management experience.\n• **Security enhancements** and general backend improvements to keep your data safe and optimize overall platform stability."
+  },
+  {
+    "label": "Week 35 - Mar 2nd to 8th",
+    "type": "week",
+    "start_date": "2026-03-02",
+    "commit_count": 13,
+    "release_notes": "• **Account management:** Introduces a redesigned usage and billing interface, along with a new option to easily delete your account directly from the platform.\n• **Demo mode:** Adds the ability to try out ExamAI features and explore the platform without needing to create an account.\n• **Session reliability:** Improves the experience of creating and saving content, including helpful notifications to prevent lost work if your login session expires.\n• **Website updates:** Adds new use-case and comparison pages to help you get the most out of ExamAI, and updates the primary web address to improve overall site discoverability.\n• **Security enhancements:** Includes backend improvements to strengthen system security, tighten administrative access, and provide more consistent error handling."
+  },
+  {
+    "label": "Daily Update - Mar 3rd",
     "type": "day",
-    "start_date": "2026-02-27",
-    "commit_count": 69,
-    "release_notes": "• **Localization support:** We’ve updated the interface to support internationalization, paving the way for a multi-language experience in the exam creation and review screens.\n• **Enhanced security:** Implemented comprehensive security upgrades and stricter authentication checks to ensure exam data and student submissions remain secure.\n• **In-app updates:** Added a new notification banner to let you know immediately when the latest features and fixes are available.\n• **AI reliability:** Improved the stability of the AI grading engine to ensure consistent analysis and reduce processing errors.\n• **Performance improvements:** Includes general backend optimizations and stability fixes to make the platform faster and more reliable."
+    "start_date": "2026-03-03",
+    "commit_count": 23,
+    "release_notes": "• **Self-Grading:** Introduces a complete workflow that allows users to seamlessly evaluate and score their own exams.\n• **Progress Tracking:** Adds real-time progress indicators to help you monitor your self-grading status from start to finish.\n• **Mobile Support:** Brings the full self-grading experience to the mobile app, allowing you to grade exams on the go.\n• **Interface Enhancements:** Simplifies the exam details header and resolves visual clipping issues with hover menus for a cleaner, more intuitive layout.\n• **Backend Improvements:** Includes under-the-hood optimizations to support new features and improve overall platform stability."
+  },
+  {
+    "label": "Daily Update - Mar 4th",
+    "type": "day",
+    "start_date": "2026-03-04",
+    "commit_count": 10,
+    "release_notes": "• **Expanded Grading Options:** Adds support for new grading types and improves localization across the platform.\n• **Course File Uploads:** Resolves an issue to ensure professors can securely and reliably upload course materials.\n• **Security Portal:** Introduces new dedicated pages for viewing our Incident Response Plan and Firewall Change Requests.\n• **Enterprise Dashboard:** Enhances the enterprise usage view with updated status badges and streamlined activity tracking.\n• **Mobile Reliability:** Improves connection stability and retry logic for a smoother mobile experience.\n• **Backend Improvements:** Includes under-the-hood optimizations to enhance overall platform performance and system stability."
+  },
+  {
+    "label": "Week 36 - Mar 9th to 15th",
+    "type": "week",
+    "start_date": "2026-03-09",
+    "commit_count": 11,
+    "release_notes": "• **Real-time AI Editor:** Chat responses now stream in real-time, delivering a faster and more seamless editing experience.\n• **In-App Purchases:** Added support for Apple In-App Purchases, allowing you to securely manage your ExamAI subscriptions and payments directly through your Apple account.\n• **Streamlined Pricing:** Updated and simplified our available pricing tiers to make choosing the right plan easier.\n• **Lesson Improvements:** Updated the lesson editor with a refined layout, improved interface styling, and significantly faster loading times.\n• **Performance and Reliability:** Includes various under-the-hood enhancements to enforce exam security rules, optimize website performance, and improve overall platform stability."
   },
   {
     "label": "Daily Update - Mar 12th",
     "type": "day",
     "start_date": "2026-03-12",
-    "commit_count": 25,
-    "release_notes": "• Introduces a new **AI Editor Assistant**, allowing you to interact directly with ExamAI via a dedicated chat panel to brainstorm, edit, and refine content.\n• Adds support for **real-time streaming**, ensuring faster and more fluid responses during AI interactions within the lesson editor.\n• Enhanced **exam security** logic to ensure exam locking rules are enforced consistently and robustly.\n• Includes various **performance improvements** and backend optimizations for smoother site navigation and better reliability."
+    "commit_count": 19,
+    "release_notes": "• Introduces a persistent **AI Chat Panel** seamlessly integrated into the editor to assist you while you work\n• Includes various **backend improvements** to support and maintain reliable AI conversations\n• Resolves a rendering issue in the **Lesson Editor** to improve overall application stability and performance"
   },
   {
-    "label": "Week 13 - Mar 23rd to 29th",
+    "label": "Week 37 - Mar 16th to 22nd",
+    "type": "week",
+    "start_date": "2026-03-16",
+    "commit_count": 5,
+    "release_notes": "• **Turbo QR mobile grading:** Introduces a seamless new way to scan, review, and grade exams directly from your mobile device, complete with full multi-language support.\n• **Enhanced privacy controls:** Adds a new data consent dialog to provide greater transparency and control over how AI features process your information.\n• **Session reliability:** Resolves an issue that could cause unexpected logouts during extended grading sessions, ensuring your progress remains secure.\n• **General improvements:** Includes minor visual refinements to the gallery and assignment screens, alongside various backend improvements for a smoother overall experience."
+  },
+  {
+    "label": "Week 38 - Mar 23rd to 29th",
     "type": "week",
     "start_date": "2026-03-23",
-    "commit_count": 15,
-    "release_notes": "• General bug fixes and improvements"
+    "commit_count": 16,
+    "release_notes": "• **AI Grading Engine:** Upgrades the core AI model for improved accuracy and ensures all grading feedback and summaries are consistently generated in your preferred language.\n• **Turbo QR:** Delivers a faster, more reliable upload experience and introduces new options to easily undo or reassign grading approvals.\n• **Rich Text Formatting:** Adds support for rich text in EasyGrade results, making question titles, summaries, and grading feedback much easier to read.\n• **Error Resolution:** Introduces a streamlined fix flow that instantly alerts you to AI grading errors and allows you to resolve them with a single tap.\n• **Enterprise Tools:** Adds support for custom enterprise subdomains, enhanced team invite security, and a new pricing calculator.\n• **Privacy Updates:** Introduces a comprehensive AI consent flow across all devices to provide greater transparency and control over your data.\n• **General Improvements:** Fixes an issue to ensure exams are accurately sorted by their start date, alongside ongoing backend performance and security enhancements."
   },
   {
     "label": "Daily Update - Mar 30th",
     "type": "day",
     "start_date": "2026-03-30",
-    "commit_count": 17,
-    "release_notes": "• General bug fixes and improvements"
+    "commit_count": 55,
+    "release_notes": "• **File Attachments:** You can now upload files directly to the AI Chat for deeper analysis and context.\n• **Enhanced AI Chat:** The chat interface features a significant visual redesign and now streams responses in real-time for faster, smoother interactions.\n• **Smarter AI Assistant:** Upgraded the underlying AI models to deliver higher-quality grading insights, customized grading personas, and better handling of large file uploads.\n• **Question Formatting:** Multiple-choice questions and exam titles now generate and display cleanly, resolving an issue where unnecessary text prefixes would appear.\n• **Account Access:** Terms of Service and Privacy Policy links are now always visible directly from the login and sign-up screens.\n• **Performance Improvements:** Includes enhanced session stability, refined PDF processing, and general backend optimizations for a more reliable experience."
+  },
+  {
+    "label": "Week 40 - Mar 30th to Apr 5th",
+    "type": "week",
+    "start_date": "2026-03-30",
+    "commit_count": 9,
+    "release_notes": "• **Mobile grading** introduces a complete grading experience for mobile devices, including new tools to easily identify and recover interrupted grading sessions.\n• **Grading reliability** is significantly improved with enhanced background processes to prevent unexpected timeouts and connection drops.\n• **Language preferences** are now reliably saved, ensuring a consistent localized experience every time you open the platform.\n• **Animated analytics** adds the ability to generate and view dynamic visual summaries of long-term data trends.\n• **Student accounts** benefit from automatic background optimizations for a smoother, more reliable login and enterprise integration experience.\n• **Dashboard visuals** have been updated with a refined loading interface and expanded enterprise partner support.\n• **General security and performance** improvements include enhanced spam prevention on contact forms and better overall platform stability."
+  },
+  {
+    "label": "Daily Update - Apr 5th",
+    "type": "day",
+    "start_date": "2026-04-05",
+    "commit_count": 78,
+    "release_notes": "• **Score Visibility Controls:** Instructors can now choose exactly when exam grades and feedback are revealed to students.\n• **Real-Time Dashboard Updates:** The grading interface now refreshes automatically as submissions are processed, eliminating the need to manually reload the page.\n• **Automated Exam Management:** The platform now automatically detects and resolves exam submissions that remain in progress after the exam deadline has passed.\n• **Session Reliability:** Resolved an issue where students could be unexpectedly logged out while submitting their exams.\n• **Performance Improvements:** Backend enhancements ensure faster loading times and better stability when managing courses with a large number of students."
+  },
+  {
+    "label": "Week 42 - Apr 6th to 12th",
+    "type": "week",
+    "start_date": "2026-04-06",
+    "commit_count": 3,
+    "release_notes": "• **AI Answer Summaries:** Quickly review exams with new AI-generated summaries for student answers and paper transcriptions, available for both professors and students across web and mobile.\n• **Enhanced Document Previews:** Seamlessly view mobile image submissions and PDF documents directly within the platform.\n• **Improved Submission Handling:** Added broader support and smoother processing for various exam submission methods, including paper and mobile uploads.\n• **Performance Improvements:** Includes backend updates and general optimizations to ensure a faster, more reliable grading experience."
+  },
+  {
+    "label": "Week 43 - Apr 13th to 19th",
+    "type": "week",
+    "start_date": "2026-04-13",
+    "commit_count": 13,
+    "release_notes": "• **Mobile experience:** Introduces a fully redesigned layout optimized for mobile and tablet devices.\n• **Editor chat:** Adds support for file attachments within the chat interface and increases AI processing limits.\n• **Grading reliability:** Resolves an issue that could cause the automatic grading process to pause or become stuck.\n• **Interface and pricing:** Refreshes the platform's landing and contact pages with a modernized dark design and updates pricing tiers to better accommodate different grading volumes.\n• **Security and privacy:** Enhances overall account security and ensures all exam question images are securely stored and accessed privately.\n• **Bug fixes and backend improvements:** Addresses intermittent file upload errors and includes under-the-hood optimizations for improved platform stability."
+  },
+  {
+    "label": "Week 44 - Apr 20th to 26th",
+    "type": "week",
+    "start_date": "2026-04-20",
+    "commit_count": 9,
+    "release_notes": "• **Interactive exam previews:** A redesigned exam creation flow features live, paginated previews with draggable, resizable answer boxes and automatic QR code generation.\n• **Enhanced document formatting:** Exam names are now automatically printed on every page to help keep printed materials organized.\n• **Accurate multiple-choice grading:** Updated scoring logic enforces strict, absolute grading for all multiple-choice questions.\n• **Student roster consistency:** Improved the way student names are synced and displayed to ensure accurate records across all your courses.\n• **Subscription management:** Paid users can now easily access their billing portal and view accurate subscription renewal dates right from their account.\n• **Performance and stability improvements:** Includes various backend enhancements and layout optimizations for a smoother, more reliable platform experience."
   },
   {
     "label": "Daily Update - Apr 21st",
     "type": "day",
     "start_date": "2026-04-21",
     "commit_count": 24,
-    "release_notes": "• General bug fixes and improvements"
+    "release_notes": "• **PDF Export Progress:** Adds a real-time visual progress indicator so you can easily track the status of your document downloads.\n• **Export Reliability:** Resolves an issue that could occasionally result in partial or incomplete PDF exports.\n• **Performance Improvements:** Includes backend optimizations to enhance the overall speed and stability of document generation."
+  },
+  {
+    "label": "Daily Update - Apr 23rd",
+    "type": "day",
+    "start_date": "2026-04-23",
+    "commit_count": 56,
+    "release_notes": "• **Multi-professor collaboration:** Introduces full support for co-teaching, allowing multiple educators to seamlessly share access, manage courses, and grade exams together. \n• **Interface refinements:** Simplifies the grading workflow with cleaner, more intuitive button labels across the platform.\n• **Resolved grading issues:** Addresses a visual bug with PDF regrade placeholders and fixes an issue to ensure grading mode filters work exactly as expected.\n• **System improvements:** Includes general backend optimizations and under-the-hood enhancements for a faster, more reliable experience."
   },
   {
     "label": "Daily Update - Apr 24th",
     "type": "day",
     "start_date": "2026-04-24",
     "commit_count": 36,
-    "release_notes": "• General bug fixes and improvements"
+    "release_notes": "• **Exam integrity:** Introduces a one-time entry lock and automatically submits exams if a student navigates away from the active testing session.\n• **Self-graded exams:** Improves grading flexibility by removing strict requirements and resolves an issue that prevented some exams from loading correctly.\n• **Course management:** Addresses an issue where course information fields could unexpectedly disappear or fail to save.\n• **Reliability improvements:** Includes backend optimizations to maintain a stable, continuous connection during exams and improve overall system performance."
+  },
+  {
+    "label": "Daily Update - Apr 26th",
+    "type": "day",
+    "start_date": "2026-04-26",
+    "commit_count": 134,
+    "release_notes": "• **Exam time limits:** Adds the option to set custom time limits for individual exams.\n• **Editable scoring:** Introduces a new interface that allows you to easily adjust and manage exam scores.\n• **Performance charts:** Redesigns analytics charts to provide clearer, more intuitive insights into exam results.\n• **Grading flexibility:** Enhances the grading system by removing strict grade bands, allowing for more customizable evaluations.\n• **Backend improvements:** Includes system migrations and under-the-hood optimizations for improved speed and stability."
   }
 ]
