@@ -971,5 +971,12 @@
     "start_date": "2026-04-26",
     "commit_count": 134,
     "release_notes": "• **Exam time limits:** Adds the option to set custom time limits for individual exams.\n• **Editable scoring:** Introduces a new interface that allows you to easily adjust and manage exam scores.\n• **Performance charts:** Redesigns analytics charts to provide clearer, more intuitive insights into exam results.\n• **Grading flexibility:** Enhances the grading system by removing strict grade bands, allowing for more customizable evaluations.\n• **Backend improvements:** Includes system migrations and under-the-hood optimizations for improved speed and stability."
+  },
+  {
+    "label": "Week 18 - Apr 27th to May 3rd",
+    "type": "week",
+    "start_date": "2026-04-27",
+    "commit_count": 28,
+    "release_notes": "• **AI Editor & Grading:** Experience a major upgrade to the AI editor with real-time text streaming and Markdown support, alongside significantly faster grading status updates.\n• **Course & Exam Management:** Easily add co-professors, generate course invite links, and manage your curriculum with new tools to clone, delete, and organize exams directly from an expandable course list.\n• **Customizable PDF Exports:** Generate pixel-perfect exam PDFs with new controls for font size and line spacing, complete with a seamless download progress indicator.\n• **Improved Student Rosters:** Class rosters now sort alphabetically by default and accurately reflect administrator-updated names for easier student management.\n• **Mobile Account Recovery:** Securely reset your password directly within the mobile app using a new, streamlined account recovery flow.\n• **Refined User Interface:** Enjoy a beautifully polished Dark Mode, smoother interface animations, and expanded international language support across the platform.\n• **Enterprise & Performance Improvements:** Experience faster loading times for large course lists, new scheduling tools for institution onboarding, and enhanced backend safeguards to protect your data."
   }
 ]
