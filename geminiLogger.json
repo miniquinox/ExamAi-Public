@@ -978,5 +978,12 @@
     "start_date": "2026-04-27",
     "commit_count": 28,
     "release_notes": "• **AI Editor & Grading:** Experience a major upgrade to the AI editor with real-time text streaming and Markdown support, alongside significantly faster grading status updates.\n• **Course & Exam Management:** Easily add co-professors, generate course invite links, and manage your curriculum with new tools to clone, delete, and organize exams directly from an expandable course list.\n• **Customizable PDF Exports:** Generate pixel-perfect exam PDFs with new controls for font size and line spacing, complete with a seamless download progress indicator.\n• **Improved Student Rosters:** Class rosters now sort alphabetically by default and accurately reflect administrator-updated names for easier student management.\n• **Mobile Account Recovery:** Securely reset your password directly within the mobile app using a new, streamlined account recovery flow.\n• **Refined User Interface:** Enjoy a beautifully polished Dark Mode, smoother interface animations, and expanded international language support across the platform.\n• **Enterprise & Performance Improvements:** Experience faster loading times for large course lists, new scheduling tools for institution onboarding, and enhanced backend safeguards to protect your data."
+  },
+  {
+    "label": "Week 20 - May 11th to 17th",
+    "type": "week",
+    "start_date": "2026-05-11",
+    "commit_count": 10,
+    "release_notes": "• **Turbo Scanner:** Introduces a faster, smarter camera scanner with automatic cropping, image enhancement, and improved QR code detection for paper exams.\n• **Generate Quiz:** Adds a new tool to seamlessly create quizzes directly within the app.\n• **Grading & Score Visibility:** Gives professors the ability to hide scores until they are ready to reveal them to students, alongside new multiple-choice grading rubrics and PDF export options.\n• **Professor Dashboard:** Redesigns the dashboard with a cleaner layout, improved navigation, and smoother workflows for managing student views and admin tools.\n• **Roster Flexibility:** Adds support for \"exam-only\" students, allowing instructors to easily accommodate and manage additional students for specific exams.\n• **Submission Enhancements:** Improves the handling of mobile image and PDF submissions, including automatic file compression for faster, more reliable uploads.\n• **General Improvements:** Includes expanded language translations, improved support for enterprise-managed courses, and overall performance enhancements."
   }
 ]
