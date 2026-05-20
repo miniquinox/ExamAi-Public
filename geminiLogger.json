@@ -985,5 +985,12 @@
     "start_date": "2026-05-11",
     "commit_count": 10,
     "release_notes": "• **Turbo Scanner:** Introduces a faster, smarter camera scanner with automatic cropping, image enhancement, and improved QR code detection for paper exams.\n• **Generate Quiz:** Adds a new tool to seamlessly create quizzes directly within the app.\n• **Grading & Score Visibility:** Gives professors the ability to hide scores until they are ready to reveal them to students, alongside new multiple-choice grading rubrics and PDF export options.\n• **Professor Dashboard:** Redesigns the dashboard with a cleaner layout, improved navigation, and smoother workflows for managing student views and admin tools.\n• **Roster Flexibility:** Adds support for \"exam-only\" students, allowing instructors to easily accommodate and manage additional students for specific exams.\n• **Submission Enhancements:** Improves the handling of mobile image and PDF submissions, including automatic file compression for faster, more reliable uploads.\n• **General Improvements:** Includes expanded language translations, improved support for enterprise-managed courses, and overall performance enhancements."
+  },
+  {
+    "label": "Daily Update - May 20th",
+    "type": "day",
+    "start_date": "2026-05-20",
+    "commit_count": 46,
+    "release_notes": "• Introduces a **new notification and messaging system** to help you stay updated and communicate effortlessly with multiple users\n• Features a **redesigned sign-up experience** with a cleaner, more intuitive interface for new accounts\n• Brings **smooth loading animations** to the analytics dashboard and professor courses page for a highly polished, responsive feel\n• Expands **language localization** to ensure all notifications and messages display correctly in your preferred language\n• Enhances the **Enterprise Portal** with improved reliability for managing and resending institution invitations\n• Includes general **security and backend improvements** to optimize overall platform stability, speed, and performance"
   }
 ]
