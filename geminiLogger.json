@@ -994,6 +994,13 @@
     "release_notes": "• Introduces a **new notification and messaging system** to help you stay updated and communicate effortlessly with multiple users\n• Features a **redesigned sign-up experience** with a cleaner, more intuitive interface for new accounts\n• Brings **smooth loading animations** to the analytics dashboard and professor courses page for a highly polished, responsive feel\n• Expands **language localization** to ensure all notifications and messages display correctly in your preferred language\n• Enhances the **Enterprise Portal** with improved reliability for managing and resending institution invitations\n• Includes general **security and backend improvements** to optimize overall platform stability, speed, and performance"
   },
   {
+    "label": "Week 22 - May 25th to 31st",
+    "type": "week",
+    "start_date": "2026-05-25",
+    "commit_count": 13,
+    "release_notes": "• **Instant Grading**: Experience a faster grading workflow with our new instant grading feature, which can automatically trigger grading after saving an exam, complete with beautifully redesigned grading dashboards.\n\n• **Co-Professor Collaboration**: Co-professors now enjoy full access to exam details and grading controls, making team-teaching and shared grading seamless.\n\n• **Enhanced Exam Previews**: Enjoy a polished preview experience with improved text formatting, automatically sorted questions, and more accurate grading for legacy question formats.\n\n• **Interactive Image Zoom**: Easily view exam images in detail with a new tap-to-zoom feature, now available during exam-taking and question editing.\n\n• **Upgraded Mobile Experience**: Enhanced mobile exam tools with reliable image uploads, instant previews, and improved tracking for audio recordings.\n\n• **Smart Language Preferences**: The platform now automatically sets your language based on your web domain and securely saves your language preferences to your profile.\n\n• **Performance Improvements**: Under-the-hood optimizations ensure faster loading times when viewing large lists of student answers."
+  },
+  {
     "label": "Daily Update - May 27th",
     "type": "day",
     "start_date": "2026-05-27",
