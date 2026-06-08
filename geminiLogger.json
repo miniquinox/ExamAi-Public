@@ -1006,5 +1006,12 @@
     "start_date": "2026-05-27",
     "commit_count": 5,
     "release_notes": "• **Enhanced grading interface** featuring a refreshed visual design for professors, making it easier and more intuitive to navigate grading tasks.\n• **New image zoom controls** that allow students and instructors to hover and click to expand images, diagrams, and attachments during exams for better clarity.\n• **Instant auto-grading** that automatically begins processing student submissions the moment an exam is saved, streamlining the evaluation workflow.\n• **Smarter language preferences** that automatically detect your language when joining a course, while seamlessly saving your language settings alongside your theme preferences."
+  },
+  {
+    "label": "Daily Update - Jun 8th",
+    "type": "day",
+    "start_date": "2026-06-08",
+    "commit_count": 5,
+    "release_notes": "• **Expanded file support** with new compatibility for PowerPoint (PPTX) presentations and improved handling for Word (DOCX) documents.\n• **Multi-administrator management** to easily assign and manage multiple super-admin roles across web and mobile platforms.\n• **Improved usage tracking** for enterprise accounts, providing clearer visibility into AI resource usage and cost estimation.\n• **Enhanced security measures** including database hardening, content sanitization, and advanced protection against unauthorized embedding to keep your data safe."
   }
 ]
