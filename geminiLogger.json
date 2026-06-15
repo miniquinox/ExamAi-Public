@@ -1013,5 +1013,12 @@
     "start_date": "2026-06-08",
     "commit_count": 5,
     "release_notes": "• **Expanded file support** with new compatibility for PowerPoint (PPTX) presentations and improved handling for Word (DOCX) documents.\n• **Multi-administrator management** to easily assign and manage multiple super-admin roles across web and mobile platforms.\n• **Improved usage tracking** for enterprise accounts, providing clearer visibility into AI resource usage and cost estimation.\n• **Enhanced security measures** including database hardening, content sanitization, and advanced protection against unauthorized embedding to keep your data safe."
+  },
+  {
+    "label": "Daily Update - Jun 15th",
+    "type": "day",
+    "start_date": "2026-06-15",
+    "commit_count": 5,
+    "release_notes": "• **Instant Grade for Professors**: Streamline your grading workflow with a new mobile feature that allows educators to quickly scan and grade paper exams using their device's camera.\n• **Enhanced Mobile Exam-Taking**: Students will experience a more reliable exam session with improved background autosaving, real-time save status indicators, and optimized keyboard behavior on mobile devices.\n• **Smarter Exam Scheduling**: Features an updated mobile calendar and new validation checks to prevent scheduling errors, ensuring exam start and end times are always configured correctly.\n• **Streamlined Audio Notes**: Enjoy a redesigned and more consistent interface for recording and managing audio notes within student accounts."
   }
 ]
