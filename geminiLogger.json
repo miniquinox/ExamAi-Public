@@ -1021,4 +1021,39 @@
     "commit_count": 5,
     "release_notes": "• **Instant Grade for Professors**: Streamline your grading workflow with a new mobile feature that allows educators to quickly scan and grade paper exams using their device's camera.\n• **Enhanced Mobile Exam-Taking**: Students will experience a more reliable exam session with improved background autosaving, real-time save status indicators, and optimized keyboard behavior on mobile devices.\n• **Smarter Exam Scheduling**: Features an updated mobile calendar and new validation checks to prevent scheduling errors, ensuring exam start and end times are always configured correctly.\n• **Streamlined Audio Notes**: Enjoy a redesigned and more consistent interface for recording and managing audio notes within student accounts."
   }
+  {
+    "label": "Week 46 - Jun 15th to 21st",
+    "type": "week",
+    "start_date": "2026-06-15",
+    "commit_count": 14,
+    "release_notes": "• **AI-Assisted Exam Management**: You can now use the support chat to update exam settings, edit questions, trigger regrades, and toggle student grade visibility with quick, confirm-to-apply actions.\n• **Enhanced Support Chat**: The in-app assistant can now navigate you directly to relevant pages. We’ve also resolved issues with draft loss when closing the chat and fixed text layouts for long exam names.\n• **Updated Professor Settings**: Manage your profile and subscriptions more easily with new tier configurations. For enterprise users, the interface is now streamlined to hide organization-managed billing details.\n• **Polished UI and Translations**: Experience improved layouts across modals, responsive text formatting, and expanded translation support for course creation and exam screens.\n• **Performance and Reliability**: Under-the-hood enhancements to login flows, session handling, and database queries ensure a faster and more stable experience."
+  },
+  {
+    "label": "Week 47 - Jun 22nd to 28th",
+    "type": "week",
+    "start_date": "2026-06-22",
+    "commit_count": 4,
+    "release_notes": "• **Global Student Search**: Easily find students across all of your exams using just their name or email address, without needing to navigate to a specific exam first.\n• **Enterprise Language Selection**: Added a new language selector for enterprise organizations, making it easier to customize your platform experience.\n• **Enhanced Support Chat**: Get smarter assistance with updated grading knowledge and full translation support on both mobile and web.\n• **Improved Chat Formatting**: Enjoy cleaner, easier-to-read support messages with beautifully formatted text, tables, and code blocks.\n• **Interface Refinements**: Minor visual updates and layout polishes across the platform for a smoother user experience."
+  },
+  {
+    "label": "Week 48 - Jun 29th to Jul 5th",
+    "type": "week",
+    "start_date": "2026-06-29",
+    "commit_count": 11,
+    "release_notes": "• **All-New Course Guide**: Streamline your curriculum planning with an interactive course guide builder, resource organizer, and dedicated portals for both professors and students.\n• **Integrated Live Classes**: Host and manage virtual classroom sessions directly within the platform with a fully branded, seamless live-video experience.\n• **Redesigned Onboarding**: Get started quickly with a new step-by-step setup flow, interactive prep-quizzes, and sample grading templates for popular subjects like biology, chemistry, and history.\n• **Enhanced Grading Insights**: Review graded submissions easily with a new multi-panel layout that clearly separates exam questions, student responses, and AI-powered feedback.\n• **Expanded Language Support**: ExamAI is now available in eight new languages, including Arabic, French, Hindi, Portuguese, Chinese, Turkish, German, and Italian."
+  },
+  {
+    "label": "Daily Update - Jul 4th",
+    "type": "day",
+    "start_date": "2026-07-04",
+    "commit_count": 11,
+    "release_notes": "• **Persistent Course Rooms:** Access live sessions instantly with dedicated, permanent virtual meeting rooms for each of your courses.\n• **Calendar Integration:** Scheduled live classes are now automatically integrated directly into your calendar, making it easier to stay on track.\n• **Redesigned Virtual Classroom:** Experience a smoother, distraction-free virtual classroom with a sleek dark theme, refined sidebar layout, and seamless top-level navigation.\n• **Enhanced Presentation Tools:** Start your sessions with a new ExamAI-branded welcome slide and enjoy improved visibility for whiteboard annotations.\n• **Smoother Onboarding:** Streamlined the student onboarding and setup flow to make getting started even easier."
+  },
+  {
+    "label": "Week 49 - Jul 6th to 12th",
+    "type": "week",
+    "start_date": "2026-07-06",
+    "commit_count": 1,
+    "release_notes": "• **Course Guide Integration**: Seamlessly plan and link upcoming exams directly within your course guides to keep your curriculum organized.\n• **AI-Powered Exam Creation**: Easily draft exam questions using intuitive prompts tailored to your course material.\n• **Improved Review Flow**: Preview and refine AI-generated exams with a new, streamlined review interface before publishing them to students.\n• **Dynamic Content Support**: Automatically update and format exam details to ensure accurate and personalized assessments."
+  }
 ]
