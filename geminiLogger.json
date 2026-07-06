@@ -1055,5 +1055,12 @@
     "start_date": "2026-07-06",
     "commit_count": 1,
     "release_notes": "• **Course Guide Integration**: Seamlessly plan and link upcoming exams directly within your course guides to keep your curriculum organized.\n• **AI-Powered Exam Creation**: Easily draft exam questions using intuitive prompts tailored to your course material.\n• **Improved Review Flow**: Preview and refine AI-generated exams with a new, streamlined review interface before publishing them to students.\n• **Dynamic Content Support**: Automatically update and format exam details to ensure accurate and personalized assessments."
+  },
+  {
+    "label": "Daily Update - Jul 6th",
+    "type": "day",
+    "start_date": "2026-07-06",
+    "commit_count": 8,
+    "release_notes": "• **New AI Course Planner**: Easily design comprehensive course structures directly within the Course Guide chat, complete with real-time progress tracking as your customized curriculum is built.\n• **Intelligent Assessment Builder**: Create high-quality exams and assignments faster using a new guided creation process that generates tailored assessments in seconds.\n• **Streamlined File Management**: Instantly view and download course materials with a smoother, faster interface that eliminates transition screens.\n• **Improved Account Security**: Enhanced the sign-out process to ensure your session is always securely and reliably closed.\n• **Optimized Onboarding**: Refined the initial setup and registration flow to make getting started with ExamAI quicker and more intuitive."
   }
 ]
