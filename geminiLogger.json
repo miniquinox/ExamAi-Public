@@ -1062,5 +1062,12 @@
     "start_date": "2026-07-06",
     "commit_count": 8,
     "release_notes": "• **New AI Course Planner**: Easily design comprehensive course structures directly within the Course Guide chat, complete with real-time progress tracking as your customized curriculum is built.\n• **Intelligent Assessment Builder**: Create high-quality exams and assignments faster using a new guided creation process that generates tailored assessments in seconds.\n• **Streamlined File Management**: Instantly view and download course materials with a smoother, faster interface that eliminates transition screens.\n• **Improved Account Security**: Enhanced the sign-out process to ensure your session is always securely and reliably closed.\n• **Optimized Onboarding**: Refined the initial setup and registration flow to make getting started with ExamAI quicker and more intuitive."
+  },
+  {
+    "label": "Daily Update - Jul 10th",
+    "type": "day",
+    "start_date": "2026-07-10",
+    "commit_count": 6,
+    "release_notes": "• **Rich Media Questions**: Instructors can now enhance exams by attaching images, audio, and video files directly to any question.\n• **iOS Audio Playback**: Resolved an issue where video sound would not play on iOS devices when the physical silent switch was turned on.\n• **Smart Login Redirection**: If you accidentally attempt to sign in through the wrong portal, ExamAI will now automatically locate your account and guide you to the correct login page.\n• **Simplified Enterprise Sign-In**: Added a new institution picker on the login screen, making it easier for enterprise users to access their specific organization's portal.\n• **Google Sign-In Updates**: Under-the-hood improvements to ensure a more reliable and seamless Google authentication experience."
   }
 ]
