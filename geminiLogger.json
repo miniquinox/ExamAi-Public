@@ -1069,5 +1069,12 @@
     "start_date": "2026-07-10",
     "commit_count": 6,
     "release_notes": "• **Rich Media Questions**: Instructors can now enhance exams by attaching images, audio, and video files directly to any question.\n• **iOS Audio Playback**: Resolved an issue where video sound would not play on iOS devices when the physical silent switch was turned on.\n• **Smart Login Redirection**: If you accidentally attempt to sign in through the wrong portal, ExamAI will now automatically locate your account and guide you to the correct login page.\n• **Simplified Enterprise Sign-In**: Added a new institution picker on the login screen, making it easier for enterprise users to access their specific organization's portal.\n• **Google Sign-In Updates**: Under-the-hood improvements to ensure a more reliable and seamless Google authentication experience."
+  },
+  {
+    "label": "Daily Update - Jul 25th",
+    "type": "day",
+    "start_date": "2026-07-25",
+    "commit_count": 5,
+    "release_notes": "• **Enhanced mobile scanning** with a new fallback capture mode for more reliable QR code scanning and updated translations.\n• **Streamlined submission previews** and improved upload reliability to ensure a smoother exam submission process.\n• **New Enterprise Economics Panel** for administrators to easily track platform usage, monitor cost attribution, and view detailed billing reports.\n• **Improved billing accuracy** to ensure precise cost tracking and reporting for features like Question Polish and mobile grading."
   }
 ]
