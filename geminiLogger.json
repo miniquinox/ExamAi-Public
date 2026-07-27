@@ -1076,5 +1076,12 @@
     "start_date": "2026-07-25",
     "commit_count": 5,
     "release_notes": "• **Enhanced mobile scanning** with a new fallback capture mode for more reliable QR code scanning and updated translations.\n• **Streamlined submission previews** and improved upload reliability to ensure a smoother exam submission process.\n• **New Enterprise Economics Panel** for administrators to easily track platform usage, monitor cost attribution, and view detailed billing reports.\n• **Improved billing accuracy** to ensure precise cost tracking and reporting for features like Question Polish and mobile grading."
+  },
+  {
+    "label": "Daily Update - Jul 27th",
+    "type": "day",
+    "start_date": "2026-07-27",
+    "commit_count": 7,
+    "release_notes": "• **Fairer Exam Billing:** Standardized exam creation and cloning to bill on a per-question basis, ensuring you only pay for the exact size of the exams you build.\n• **Improved Pricing Transparency:** Updated all in-app pricing cards and usage dashboards to accurately reflect real-time credit costs for features like support chat and question polishing.\n• **Accurate Usage Tracking:** Refined how student practice sessions and resource usage are captured to ensure more precise and reliable activity reporting.\n• **Performance and Backend Improvements:** Optimized internal tracking and system infrastructure to deliver a smoother, faster platform experience."
   }
 ]
