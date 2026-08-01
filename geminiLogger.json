@@ -1083,5 +1083,12 @@
     "start_date": "2026-07-27",
     "commit_count": 7,
     "release_notes": "• **Fairer Exam Billing:** Standardized exam creation and cloning to bill on a per-question basis, ensuring you only pay for the exact size of the exams you build.\n• **Improved Pricing Transparency:** Updated all in-app pricing cards and usage dashboards to accurately reflect real-time credit costs for features like support chat and question polishing.\n• **Accurate Usage Tracking:** Refined how student practice sessions and resource usage are captured to ensure more precise and reliable activity reporting.\n• **Performance and Backend Improvements:** Optimized internal tracking and system infrastructure to deliver a smoother, faster platform experience."
+  },
+  {
+    "label": "Daily Update - Aug 1st",
+    "type": "day",
+    "start_date": "2026-08-01",
+    "commit_count": 8,
+    "release_notes": "• **Degree program support**: Explore structured academic paths with all-new dedicated program cards and schedules now available in the course library.\n• **Enhanced program visuals**: Enjoy a more interactive browsing experience with new custom illustrations and hover animations for business and finance program cards.\n• **Improved library search**: Easily keep track of available content with a new total course count badge located right next to the search bar.\n• **Accurate curriculum details**: Course cards now display precise, real-time counts of lessons and assessments, giving you an instant overview of the curriculum.\n• **Cleaner interface**: Automatically hides empty badges on course cards that do not yet have active lessons or exams, keeping your library clutter-free.\n• **Backend improvements**: Enhanced database performance to ensure highly accurate data tracking across all course guides and assessments."
   }
 ]
