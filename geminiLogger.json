@@ -1097,5 +1097,12 @@
     "start_date": "2026-08-03",
     "commit_count": 9,
     "release_notes": "• **New Brain View**: Explore your library graph with an interactive semantic view that highlights topic connections and relationships.\n• **Redesigned Library Interface**: Enjoy a cleaner, more intuitive two-column layout in the library graph with improved controls and smoother loading experiences.\n• **Course Self-Management**: Enterprise professors can now create, edit, and delete courses directly across both web and mobile platforms, streamlining the onboarding and exam setup process.\n• **Seamless Sign-Up**: Resolved routing and sign-up issues to ensure invited professors and students can register and access their accounts without interruption.\n• **Localization Updates**: Improved language support and translation accuracy for professor status tables."
+  },
+  {
+    "label": "Daily Update - Aug 26th",
+    "type": "day",
+    "start_date": "2026-08-26",
+    "commit_count": 14,
+    "release_notes": "• **Enhanced Administrator Controls** for professors, granting full access to manage exams, grading workflows, and platform settings more efficiently.\n• **Improved Platform Stability** with updates to the user interface, resolving minor visual and interactive glitches for a smoother user experience.\n• **Performance Enhancements** and general behind-the-scenes optimizations to ensure faster load times and increased reliability."
   }
 ]
