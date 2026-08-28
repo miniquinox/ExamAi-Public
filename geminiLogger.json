@@ -1104,5 +1104,12 @@
     "start_date": "2026-08-26",
     "commit_count": 14,
     "release_notes": "• **Enhanced Administrator Controls** for professors, granting full access to manage exams, grading workflows, and platform settings more efficiently.\n• **Improved Platform Stability** with updates to the user interface, resolving minor visual and interactive glitches for a smoother user experience.\n• **Performance Enhancements** and general behind-the-scenes optimizations to ensure faster load times and increased reliability."
+  },
+  {
+    "label": "Daily Update - Aug 27th",
+    "type": "day",
+    "start_date": "2026-08-27",
+    "commit_count": 7,
+    "release_notes": "• **New Professor Onboarding**: Introduced a comprehensive PDF onboarding guide and an interactive in-app document viewer to help new instructors get set up quickly.\n• **Streamlined Tutorials Hub**: Redesigned the Tutorials page into a document-first experience, featuring easy access to official guides like the new Turbo QR Grading tutorial.\n• **Improved Course Search and Cloning**: Enhanced the course discovery and duplication process for professors and administrators, ensuring more accurate search results and smoother course setup.\n• **Smoother Navigation**: Upgraded the back-navigation flow within exam setups for a more seamless and intuitive user experience.\n• **Backend Improvements**: General updates to AI processing and system stability to ensure reliable, high-speed performance."
   }
 ]
