@@ -1111,5 +1111,12 @@
     "start_date": "2026-08-27",
     "commit_count": 7,
     "release_notes": "• **New Professor Onboarding**: Introduced a comprehensive PDF onboarding guide and an interactive in-app document viewer to help new instructors get set up quickly.\n• **Streamlined Tutorials Hub**: Redesigned the Tutorials page into a document-first experience, featuring easy access to official guides like the new Turbo QR Grading tutorial.\n• **Improved Course Search and Cloning**: Enhanced the course discovery and duplication process for professors and administrators, ensuring more accurate search results and smoother course setup.\n• **Smoother Navigation**: Upgraded the back-navigation flow within exam setups for a more seamless and intuitive user experience.\n• **Backend Improvements**: General updates to AI processing and system stability to ensure reliable, high-speed performance."
+  },
+  {
+    "label": "Daily Update - Sep 1st",
+    "type": "day",
+    "start_date": "2026-09-01",
+    "commit_count": 9,
+    "release_notes": "• **Streamlined course onboarding** with a simplified, email-first sign-in flow, centered Google login options, and custom branding support for institution logos.\n• **Enhanced Enterprise Admin tools** featuring over 20 new administrative capabilities, broader management access, and centralized system notifications.\n• **Optimized navigation for Enterprise users** with seamless routing between course hubs and a redesigned sidebar for easier access to key features.\n• **Upgraded AI assistant integrations** with quick-access links to Google Gemini and other advanced AI tools directly from the enterprise dashboard.\n• **Improved Spanish localization** for course invitations, ensuring more natural translations and consistent formatting."
   }
 ]
