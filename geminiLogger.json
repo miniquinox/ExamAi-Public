@@ -1118,5 +1118,12 @@
     "start_date": "2026-09-01",
     "commit_count": 9,
     "release_notes": "• **Streamlined course onboarding** with a simplified, email-first sign-in flow, centered Google login options, and custom branding support for institution logos.\n• **Enhanced Enterprise Admin tools** featuring over 20 new administrative capabilities, broader management access, and centralized system notifications.\n• **Optimized navigation for Enterprise users** with seamless routing between course hubs and a redesigned sidebar for easier access to key features.\n• **Upgraded AI assistant integrations** with quick-access links to Google Gemini and other advanced AI tools directly from the enterprise dashboard.\n• **Improved Spanish localization** for course invitations, ensuring more natural translations and consistent formatting."
+  },
+  {
+    "label": "Daily Update - Sep 5th",
+    "type": "day",
+    "start_date": "2026-09-05",
+    "commit_count": 6,
+    "release_notes": "• **Improved Paper Exam Grading:** Enhanced the speed, reliability, and accuracy of the scanned multiple-choice grading system, ensuring smoother processing for bubble sheets.\n• **File Attachments in Chat:** Professors can now upload and attach documents directly within the AI course guide chat to provide richer context for queries.\n• **New \"Connect AI\" Hub:** Added a dedicated \"Connect AI\" shortcut to the professor sidebar, making it easier to integrate and manage external AI tools.\n• **AI-Powered Slide Illustrations:** Professors can now automatically generate and insert custom illustrations directly onto presentation slides.\n• **Streamlined Course Management:** Expanded tools for instructors to seamlessly enroll students, copy library courses, and manage ad-hoc lessons."
   }
 ]
