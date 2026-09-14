@@ -1125,5 +1125,12 @@
     "start_date": "2026-09-05",
     "commit_count": 6,
     "release_notes": "• **Improved Paper Exam Grading:** Enhanced the speed, reliability, and accuracy of the scanned multiple-choice grading system, ensuring smoother processing for bubble sheets.\n• **File Attachments in Chat:** Professors can now upload and attach documents directly within the AI course guide chat to provide richer context for queries.\n• **New \"Connect AI\" Hub:** Added a dedicated \"Connect AI\" shortcut to the professor sidebar, making it easier to integrate and manage external AI tools.\n• **AI-Powered Slide Illustrations:** Professors can now automatically generate and insert custom illustrations directly onto presentation slides.\n• **Streamlined Course Management:** Expanded tools for instructors to seamlessly enroll students, copy library courses, and manage ad-hoc lessons."
+  },
+  {
+    "label": "Daily Update - Sep 14th",
+    "type": "day",
+    "start_date": "2026-09-14",
+    "commit_count": 11,
+    "release_notes": "• **Printed Exam Enhancements**: Added an option to randomize question order on printed exams, and improved question numbering stability so numbers remain consistent when adding, deleting, or editing questions on both desktop and mobile.\n• **Mobile Admin Portal**: Institution administrators can now access their admin portal directly from the mobile app, featuring a new threaded support chat and streamlined tool confirmations.\n• **Enterprise Portal Updates**: Admins can now create shareable invite links to easily onboard professors and students, view more detailed activity labels on the usage page, and customize sign-in options to match institutional preferences.\n• **Security and Billing Improvements**: Enhanced account credit security and optimized background grading processes to ensure every submission is graded and billed exactly once."
   }
 ]
