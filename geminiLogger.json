@@ -1132,5 +1132,12 @@
     "start_date": "2026-09-14",
     "commit_count": 11,
     "release_notes": "• **Printed Exam Enhancements**: Added an option to randomize question order on printed exams, and improved question numbering stability so numbers remain consistent when adding, deleting, or editing questions on both desktop and mobile.\n• **Mobile Admin Portal**: Institution administrators can now access their admin portal directly from the mobile app, featuring a new threaded support chat and streamlined tool confirmations.\n• **Enterprise Portal Updates**: Admins can now create shareable invite links to easily onboard professors and students, view more detailed activity labels on the usage page, and customize sign-in options to match institutional preferences.\n• **Security and Billing Improvements**: Enhanced account credit security and optimized background grading processes to ensure every submission is graded and billed exactly once."
+  },
+  {
+    "label": "Daily Update - Sep 16th",
+    "type": "day",
+    "start_date": "2026-09-16",
+    "commit_count": 8,
+    "release_notes": "• **Introducing the Support Portal**: A new, dedicated space for institutions, professors, and students to easily report and track platform issues directly within ExamAI.\n• **Redesigned Reporting Form**: Experience a simplified, step-by-step reporting process that asks one question at a time, making it faster and more intuitive to submit feedback.\n• **Improved Support Workflows**: Upgraded our internal administration tools to help our support team review, manage, and resolve your reports much more efficiently.\n• **Platform-Wide Availability**: Successfully completed the rollout of the new support portal and reporting features across all partner institutions."
   }
 ]
