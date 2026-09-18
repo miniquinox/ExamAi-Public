@@ -1146,5 +1146,12 @@
     "start_date": "2026-09-17",
     "commit_count": 17,
     "release_notes": "• **More accurate grade reporting** with a fix that resolves discrepancies between the Score Distribution chart and individual student grades pages.\n\n• **Improved grade transparency** for students, who will now see a clear explanation when their exam marks are pending release by an instructor.\n\n• **Enhanced exam printing** capabilities, allowing enterprise administrators to print directly from exam cards and ensuring all attached figures and images are included in the printed version.\n\n• **Expanded localization and terminology support**, featuring fully translated enterprise consoles and support panels, as well as customizable academic terms for international institutions.\n\n• **Simplified program management** with the ability for administrators to search and look up degrees across all institutional libraries.\n\n• **Backend and database improvements** to ensure smoother system migrations and more reliable data updates during selective exam regrading."
+  },
+  {
+    "label": "Daily Update - Sep 18th",
+    "type": "day",
+    "start_date": "2026-09-18",
+    "commit_count": 20,
+    "release_notes": "• **Improved Exam Scheduling:** Exam start and submission windows are now precisely enforced according to the local timezone of each class.\n• **Enhanced Submission Reliability:** Upgraded our system to seamlessly handle high volumes of simultaneous student uploads and photo submissions during peak exam windows.\n• **Institution Admin Controls:** Enterprise administrators can now securely view uploaded student exam papers directly within the platform.\n• **Smoother Student Onboarding:** Enhanced the enrollment process to automatically align students with their institution’s portal, even when signing in with personal email addresses.\n• **Secure Account Creation:** Transitioned mobile app registrations to invite-only to ensure a more secure onboarding experience.\n• **Expanded Language Support:** Added translation support to the professor portal, including exam analytics and course management dialogs.\n• **Performance and Security Improvements:** Under-the-hood updates to secure file delivery, streamline app updates, and enhance general system stability."
   }
 ]
