@@ -1153,5 +1153,12 @@
     "start_date": "2026-09-18",
     "commit_count": 20,
     "release_notes": "• **Improved Exam Scheduling:** Exam start and submission windows are now precisely enforced according to the local timezone of each class.\n• **Enhanced Submission Reliability:** Upgraded our system to seamlessly handle high volumes of simultaneous student uploads and photo submissions during peak exam windows.\n• **Institution Admin Controls:** Enterprise administrators can now securely view uploaded student exam papers directly within the platform.\n• **Smoother Student Onboarding:** Enhanced the enrollment process to automatically align students with their institution’s portal, even when signing in with personal email addresses.\n• **Secure Account Creation:** Transitioned mobile app registrations to invite-only to ensure a more secure onboarding experience.\n• **Expanded Language Support:** Added translation support to the professor portal, including exam analytics and course management dialogs.\n• **Performance and Security Improvements:** Under-the-hood updates to secure file delivery, streamline app updates, and enhance general system stability."
+  },
+  {
+    "label": "Daily Update - Sep 21st",
+    "type": "day",
+    "start_date": "2026-09-21",
+    "commit_count": 16,
+    "release_notes": "• **Flexible Answer Formats**: Professors can now update exam answer formats at any time, even after students have begun their attempts. Additionally, the image upload limit has been increased, allowing students to submit up to three photos of handwritten work per question.\n\n• **Streamlined Navigation**: Experience a cleaner workspace with a redesigned, compact settings panel for exam creation, alongside a rebuilt mobile student hub that simplifies access to the Home dashboard, Calendar, and Chat.\n\n• **Strict Exam Security**: Screen capture is now automatically blocked during native exams to protect test integrity and prevent unauthorized sharing of exam content.\n\n• **Enhanced Support Chat**: Under-the-hood AI optimizations provide faster, more reliable assistance in the student support chat and improved accuracy when processing handwritten formulas and diagrams.\n\n• **Seamless Submission Management**: Professors can now easily manage and grant submission access through a new dedicated dialog, which automatically sends instant push notifications to students' devices. \n\n• **Performance Improvements**: General backend optimizations to ensure smoother exam transitions, reliable attempt resets, and faster loading times."
   }
 ]
