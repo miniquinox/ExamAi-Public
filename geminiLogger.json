@@ -1160,5 +1160,12 @@
     "start_date": "2026-09-21",
     "commit_count": 16,
     "release_notes": "• **Flexible Answer Formats**: Professors can now update exam answer formats at any time, even after students have begun their attempts. Additionally, the image upload limit has been increased, allowing students to submit up to three photos of handwritten work per question.\n\n• **Streamlined Navigation**: Experience a cleaner workspace with a redesigned, compact settings panel for exam creation, alongside a rebuilt mobile student hub that simplifies access to the Home dashboard, Calendar, and Chat.\n\n• **Strict Exam Security**: Screen capture is now automatically blocked during native exams to protect test integrity and prevent unauthorized sharing of exam content.\n\n• **Enhanced Support Chat**: Under-the-hood AI optimizations provide faster, more reliable assistance in the student support chat and improved accuracy when processing handwritten formulas and diagrams.\n\n• **Seamless Submission Management**: Professors can now easily manage and grant submission access through a new dedicated dialog, which automatically sends instant push notifications to students' devices. \n\n• **Performance Improvements**: General backend optimizations to ensure smoother exam transitions, reliable attempt resets, and faster loading times."
+  },
+  {
+    "label": "Daily Update - Sep 22nd",
+    "type": "day",
+    "start_date": "2026-09-22",
+    "commit_count": 16,
+    "release_notes": "• **Reopen unanswered questions**: Professors can now reopen blank questions on completed exams, allowing students to easily find and answer them on both web and mobile devices with clear visual badges and banners.\n• **Mismatched upload alerts**: Added safeguards to prevent grading when a student's paper is uploaded to the wrong exam. Professors will now see these issues flagged directly on the grades page and receive hourly email summaries of any mismatched files.\n• **Customizable AI protection**: Enhanced exam security with stricter fullscreen and face-visibility rules, while giving professors the flexibility to run AI-protected exams without camera requirements based on institutional defaults.\n• **Refined exam results**: Students taking randomized exams will now only see their specifically assigned questions on their results page.\n• **Performance improvements**: Optimized file loading times for exam papers to prevent system timeouts and ensure a smoother administrative experience."
   }
 ]
