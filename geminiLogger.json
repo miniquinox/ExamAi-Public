@@ -1167,5 +1167,12 @@
     "start_date": "2026-09-22",
     "commit_count": 16,
     "release_notes": "• **Reopen unanswered questions**: Professors can now reopen blank questions on completed exams, allowing students to easily find and answer them on both web and mobile devices with clear visual badges and banners.\n• **Mismatched upload alerts**: Added safeguards to prevent grading when a student's paper is uploaded to the wrong exam. Professors will now see these issues flagged directly on the grades page and receive hourly email summaries of any mismatched files.\n• **Customizable AI protection**: Enhanced exam security with stricter fullscreen and face-visibility rules, while giving professors the flexibility to run AI-protected exams without camera requirements based on institutional defaults.\n• **Refined exam results**: Students taking randomized exams will now only see their specifically assigned questions on their results page.\n• **Performance improvements**: Optimized file loading times for exam papers to prevent system timeouts and ensure a smoother administrative experience."
+  },
+  {
+    "label": "Daily Update - Sep 26th",
+    "type": "day",
+    "start_date": "2026-09-26",
+    "commit_count": 6,
+    "release_notes": "• **All-New Homepage Experience:** Enjoy a completely redesigned, modern homepage that is fully optimized for seamless browsing on both desktop and mobile devices.\n• **Simplified Pricing:** Transitioned from complex AI-credit tiers to straightforward, per-student pricing ranges in USD and NGN.\n• **Free LMS Access:** Updated our platform offering so you can use our core Learning Management System (LMS) for free, paying only for your AI grading usage.\n• **Rebuilt Institution & Enterprise Pages:** Easily estimate your organization's needs with our updated institutions page and a brand-new enterprise pricing calculator.\n• **Refreshed Visuals:** Features a sleeker look with new animated branding elements showcasing our partnership with Google Cloud."
   }
 ]
