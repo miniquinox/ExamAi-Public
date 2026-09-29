@@ -1174,5 +1174,12 @@
     "start_date": "2026-09-26",
     "commit_count": 6,
     "release_notes": "• **All-New Homepage Experience:** Enjoy a completely redesigned, modern homepage that is fully optimized for seamless browsing on both desktop and mobile devices.\n• **Simplified Pricing:** Transitioned from complex AI-credit tiers to straightforward, per-student pricing ranges in USD and NGN.\n• **Free LMS Access:** Updated our platform offering so you can use our core Learning Management System (LMS) for free, paying only for your AI grading usage.\n• **Rebuilt Institution & Enterprise Pages:** Easily estimate your organization's needs with our updated institutions page and a brand-new enterprise pricing calculator.\n• **Refreshed Visuals:** Features a sleeker look with new animated branding elements showcasing our partnership with Google Cloud."
+  },
+  {
+    "label": "Daily Update - Sep 29th",
+    "type": "day",
+    "start_date": "2026-09-29",
+    "commit_count": 9,
+    "release_notes": "• **New Grading Engine Options**: Professors can now choose between two grading engines for each exam—a new, high-speed engine for rapid results, or our classic engine for detailed, personalized feedback.\n• **Simplified Rubric Creation**: You can now write and edit rubrics directly for your chosen grading engine without any background conversion, ensuring the setup process is straightforward and transparent.\n• **Enhanced AI Rubric Quality**: AI-generated rubrics now undergo an automated quality review process, making them clearer, more accurate, and easier for professors to read.\n• **Seamless Rubric Editing**: Making updates to questions or rubrics through support channels now fully preserves all formatting and quality checks.\n• **Performance and Reliability Improvements**: Resolved an issue where high-volume grading queues could experience delays or timeouts, ensuring smoother and more reliable exam processing."
   }
 ]
