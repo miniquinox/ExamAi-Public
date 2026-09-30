@@ -1181,5 +1181,12 @@
     "start_date": "2026-09-29",
     "commit_count": 9,
     "release_notes": "• **New Grading Engine Options**: Professors can now choose between two grading engines for each exam—a new, high-speed engine for rapid results, or our classic engine for detailed, personalized feedback.\n• **Simplified Rubric Creation**: You can now write and edit rubrics directly for your chosen grading engine without any background conversion, ensuring the setup process is straightforward and transparent.\n• **Enhanced AI Rubric Quality**: AI-generated rubrics now undergo an automated quality review process, making them clearer, more accurate, and easier for professors to read.\n• **Seamless Rubric Editing**: Making updates to questions or rubrics through support channels now fully preserves all formatting and quality checks.\n• **Performance and Reliability Improvements**: Resolved an issue where high-volume grading queues could experience delays or timeouts, ensuring smoother and more reliable exam processing."
+  },
+  {
+    "label": "Daily Update - Sep 30th",
+    "type": "day",
+    "start_date": "2026-09-30",
+    "commit_count": 7,
+    "release_notes": "• **Live Question and Rubric Editing**: Create question drafts and perform real-time rubric checks with a faster, more reliable AI-assisted review process.\n• **Smarter Paper Grading**: Upgraded our multiple-choice engine to intelligently handle stray marks and resolve discrepancies if a printed exam is edited after publication, significantly reducing the need for manual grading reviews.\n• **Expanded Exam Authoring**: All institutions can now author handwritten exams with flexible formatting options, including image-only, text-only, or combined image and text layouts.\n• **Feature Parity**: Access to key reporting tools, including the Technology Profile report, is now available to all partner institutions.\n• **Performance and Reliability**: Backend improvements to the grading pipeline deliver faster processing times and more consistent automated scoring."
   }
 ]
