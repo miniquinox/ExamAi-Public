@@ -1195,5 +1195,12 @@
     "start_date": "2026-10-13",
     "commit_count": 5,
     "release_notes": "• **More consistent AI grading** ensures that re-evaluating the same student response delivers stable, identical results every time.\n• **Greater flexibility for exam submissions**, allowing students with active extension windows to seamlessly access and complete legacy exams.\n• **Introducing the Interview Studio**, featuring new editing and drawing tools, spoken explanations, and an interactive canvas to create richer assessment experiences.\n• **Expanded Role Library** for interviews, offering eight pre-configured, featured roles to help you set up diverse evaluation scenarios quickly.\n• **Advanced budget controls** that allow administrators to set precise spending limits and track exact AI usage costs per interview.\n• **Backend improvements** and system optimizations to support future platform updates and maintain overall stability."
+  },
+  {
+    "label": "Daily Update - Oct 14th",
+    "type": "day",
+    "start_date": "2026-10-14",
+    "commit_count": 10,
+    "release_notes": "• **Introducing the Interviews Workbench**: A dedicated new workspace designed to streamline the evaluation process, featuring shareable multi-candidate links for easier collaboration.\n• **Enhanced Enterprise Navigation**: Refreshed the portal interface with a new unified sidebar, providing professors and administrators with a more intuitive and seamless browsing experience.\n• **Student Radar Exports**: Added support for exporting student radar data, allowing educators to easily download and share visual performance insights.\n• **Performance and Infrastructure Upgrades**: Optimized backend AI model routing and system capacity to deliver faster, more reliable grading and platform performance."
   }
 ]
