@@ -1202,5 +1202,12 @@
     "start_date": "2026-10-14",
     "commit_count": 10,
     "release_notes": "• **Introducing the Interviews Workbench**: A dedicated new workspace designed to streamline the evaluation process, featuring shareable multi-candidate links for easier collaboration.\n• **Enhanced Enterprise Navigation**: Refreshed the portal interface with a new unified sidebar, providing professors and administrators with a more intuitive and seamless browsing experience.\n• **Student Radar Exports**: Added support for exporting student radar data, allowing educators to easily download and share visual performance insights.\n• **Performance and Infrastructure Upgrades**: Optimized backend AI model routing and system capacity to deliver faster, more reliable grading and platform performance."
+  },
+  {
+    "label": "Daily Update - Oct 16th",
+    "type": "day",
+    "start_date": "2026-10-16",
+    "commit_count": 17,
+    "release_notes": "• **New Professor Tutorials**: Replaced short clips with four comprehensive, step-by-step video training guides designed to help educators get the most out of ExamAI.\n\n• **Enhanced Exam Wizard**: Updated the exam editor with clearer status warnings, visible student counts for assigned exams, and a cleaner AI assistant chat interface.\n\n• **Upgraded Photo Grading**: Improved our AI grading engine to process photo-based answers much faster and with higher accuracy.\n\n• **Smarter Support Assistant**: The in-app support chat can now reference course materials to provide more accurate, context-aware help.\n\n• **Streamlined Dashboard**: Updated the professor navigation menu to prioritize the Course Gallery and clean up outdated options.\n\n• **Security & Performance Improvements**: Added corporate email requirements for interviewers, improved drag-and-drop activity mechanics, and optimized backend processing for faster lesson loading."
   }
 ]
