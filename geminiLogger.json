@@ -1209,5 +1209,12 @@
     "start_date": "2026-10-16",
     "commit_count": 17,
     "release_notes": "• **New Professor Tutorials**: Replaced short clips with four comprehensive, step-by-step video training guides designed to help educators get the most out of ExamAI.\n\n• **Enhanced Exam Wizard**: Updated the exam editor with clearer status warnings, visible student counts for assigned exams, and a cleaner AI assistant chat interface.\n\n• **Upgraded Photo Grading**: Improved our AI grading engine to process photo-based answers much faster and with higher accuracy.\n\n• **Smarter Support Assistant**: The in-app support chat can now reference course materials to provide more accurate, context-aware help.\n\n• **Streamlined Dashboard**: Updated the professor navigation menu to prioritize the Course Gallery and clean up outdated options.\n\n• **Security & Performance Improvements**: Added corporate email requirements for interviewers, improved drag-and-drop activity mechanics, and optimized backend processing for faster lesson loading."
+  },
+  {
+    "label": "Daily Update - Oct 19th",
+    "type": "day",
+    "start_date": "2026-10-19",
+    "commit_count": 13,
+    "release_notes": "• **Concept Studio**: Design courses more efficiently with a new workspace and real-time, streamed course-guide preparation.\n• **Visual Lesson Enhancements**: Bring lessons and assessments to life with newly integrated, high-quality illustrations, diagrams, and animations.\n• **Expanded Grading Capabilities**: Grade larger PDF submissions of up to 50 pages, with clearer error messages and status tracking if a submission fails.\n• **Improved Grading Previews**: Experience smoother bulk PDF processing and more detailed previews for direct image-based grading.\n• **Performance and Reliability**: Underlying backend improvements to ensure faster page rendering, more reliable grading queues, and overall platform stability."
   }
 ]
