@@ -1223,5 +1223,12 @@
     "start_date": "2026-10-20",
     "commit_count": 8,
     "release_notes": "• **Upgraded grading engine:** Our next-generation grading system is now the default for all new exams, featuring significantly faster processing times for PDF and multi-page paper submissions.\n• **New AI Assistant tools:** Easily interact with the AI assistant in the exam editor using a redesigned input composer and helpful starter prompts.\n• **Refined Question Editor:** Enjoy a cleaner workspace with the formatting toolbar now located in the header, along with new support for underlined text.\n• **Improved text editing:** Reverting mistakes is now easier with smarter undo (Cmd+Z) behavior that rolls back natural blocks of recently typed text.\n• **Streamlined tutorials:** Learn the platform faster with shorter, more focused training guides that walk you through a single exam from start to finish."
+  },
+  {
+    "label": "Daily Update - Oct 21st",
+    "type": "day",
+    "start_date": "2026-10-21",
+    "commit_count": 9,
+    "release_notes": "• **Smarter multiple-choice grading:** Improved paper-scanning accuracy to prevent system errors when reading handwritten multiple-choice labels on printed exams.\n\n• **Consolidated professor alerts:** Educators now receive a single, clear email digest summarizing any exams that require manual attention, such as missing pages or duplicate submissions.\n\n• **Upgraded mobile experience:** Enjoy faster paper-grading submissions, more reliable QR code scanning, and instant exam score visibility directly within the mobile app.\n\n• **Clearer grading details:** Multiple-choice answers now display the exact option selected by the student for easier review and cleaner score tracking.\n\n• **New public tutorials and guides:** Explore our new learning center featuring interactive training modules for various exam setups, complete with localized video walkthroughs and Spanish voice support."
   }
 ]
