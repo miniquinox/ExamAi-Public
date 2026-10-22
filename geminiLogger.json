@@ -1230,5 +1230,12 @@
     "start_date": "2026-10-21",
     "commit_count": 9,
     "release_notes": "• **Smarter multiple-choice grading:** Improved paper-scanning accuracy to prevent system errors when reading handwritten multiple-choice labels on printed exams.\n\n• **Consolidated professor alerts:** Educators now receive a single, clear email digest summarizing any exams that require manual attention, such as missing pages or duplicate submissions.\n\n• **Upgraded mobile experience:** Enjoy faster paper-grading submissions, more reliable QR code scanning, and instant exam score visibility directly within the mobile app.\n\n• **Clearer grading details:** Multiple-choice answers now display the exact option selected by the student for easier review and cleaner score tracking.\n\n• **New public tutorials and guides:** Explore our new learning center featuring interactive training modules for various exam setups, complete with localized video walkthroughs and Spanish voice support."
+  },
+  {
+    "label": "Daily Update - Oct 22nd",
+    "type": "day",
+    "start_date": "2026-10-22",
+    "commit_count": 10,
+    "release_notes": "• **Enhanced Grading Accuracy**: Improved the reliability of automated grading for multiple-choice questions and resolved an issue where generated answer keys could occasionally be left blank.\n• **New Interactive Tutorials**: Added a comprehensive final training video with chapters, step-by-step guides, and a new virtual tutor to help you master the platform.\n• **Visual and Layout Refinements**: Polished the presentation of lesson slides and exam questions with improved text formatting, label alignment, and cleaner slide layouts.\n• **Smoother Course Enrollment**: Resolved an issue where the \"Join\" button could get stuck loading, and simplified the sign-in helper text during the course registration process.\n• **Expanded Regional Support**: Introduced tailored landing pages and localized guides for universities in Nigeria and Festo partner institutions, featuring custom demonstration videos and resources."
   }
 ]
