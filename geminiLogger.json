@@ -1244,5 +1244,12 @@
     "start_date": "2026-10-24",
     "commit_count": 5,
     "release_notes": "• **Expanded Spanish language support** with fully translated interactive tutorials and localized video guides to help Spanish-speaking users get started quickly.\n• **Localized tutorial interfaces** for key features, including the lesson editor, course guide planner, and password recovery screens.\n• **Improved mobile experience** with localized dates and student attendance counts on exam and grading detail screens.\n• **Effortless curriculum management** allowing administrators to easily copy degree programs between different institutions within the same project."
+  },
+  {
+    "label": "Daily Update - Nov 2nd",
+    "type": "day",
+    "start_date": "2026-11-02",
+    "commit_count": 5,
+    "release_notes": "• **AI-Generated Video Lessons**: Create and customize 1-to-15 minute video lessons directly within the AI chat, and download them as MP4 files for offline use.\n• **Localized Presenters**: Video lessons now automatically feature virtual presenters and languages tailored to your specific institution.\n• **Flexible Course Management**: Easily archive course guides while choosing whether to keep or delete associated lessons and assessments, making it simpler to restructure your study plans.\n• **Streamlined Institution Onboarding**: Improved the pilot program application process with helpful writing guidance, localized coaching, and automated confirmation emails.\n• **New Introductory Experience**: Added a dedicated video introduction page designed specifically for partner universities in Nigeria."
   }
 ]
