@@ -1251,5 +1251,12 @@
     "start_date": "2026-11-02",
     "commit_count": 5,
     "release_notes": "• **AI-Generated Video Lessons**: Create and customize 1-to-15 minute video lessons directly within the AI chat, and download them as MP4 files for offline use.\n• **Localized Presenters**: Video lessons now automatically feature virtual presenters and languages tailored to your specific institution.\n• **Flexible Course Management**: Easily archive course guides while choosing whether to keep or delete associated lessons and assessments, making it simpler to restructure your study plans.\n• **Streamlined Institution Onboarding**: Improved the pilot program application process with helpful writing guidance, localized coaching, and automated confirmation emails.\n• **New Introductory Experience**: Added a dedicated video introduction page designed specifically for partner universities in Nigeria."
+  },
+  {
+    "label": "Daily Update - Nov 6th",
+    "type": "day",
+    "start_date": "2026-11-06",
+    "commit_count": 7,
+    "release_notes": "• **Enhanced exam validation** checks for potential issues before students begin their tests, and automatically caps grades to prevent scores from exceeding maximum point values.\n• **Safer live editing** prevents saving conflicts and errors when instructors publish updates or make changes during an active exam.\n• **Improved submission handling** automatically finalizes overdue student attempts and allows instructors to reopen unanswered questions with updated rubrics across web and mobile.\n• **Masterclass progress tracking** is now easily accessible directly on the mobile homepage dashboard for instructors.\n• **Custom institution branding** is now supported on video lessons, displaying your school’s logo alongside ExamAI on opening screens.\n• **General performance updates** and stability improvements for a smoother, faster experience on the mobile app."
   }
 ]
