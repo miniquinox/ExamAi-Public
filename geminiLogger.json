@@ -1258,5 +1258,12 @@
     "start_date": "2026-11-06",
     "commit_count": 7,
     "release_notes": "• **Enhanced exam validation** checks for potential issues before students begin their tests, and automatically caps grades to prevent scores from exceeding maximum point values.\n• **Safer live editing** prevents saving conflicts and errors when instructors publish updates or make changes during an active exam.\n• **Improved submission handling** automatically finalizes overdue student attempts and allows instructors to reopen unanswered questions with updated rubrics across web and mobile.\n• **Masterclass progress tracking** is now easily accessible directly on the mobile homepage dashboard for instructors.\n• **Custom institution branding** is now supported on video lessons, displaying your school’s logo alongside ExamAI on opening screens.\n• **General performance updates** and stability improvements for a smoother, faster experience on the mobile app."
+  },
+  {
+    "label": "Daily Update - Nov 13th",
+    "type": "day",
+    "start_date": "2026-11-13",
+    "commit_count": 6,
+    "release_notes": "• **Expanded Institutional Support** with the onboarding of Federal University Otuoke, providing a dedicated and secure grading environment tailored to their academic needs.\n• **Streamlined Portal Setup** featuring improved domain configuration guidance to help institutions easily set up and launch their custom subdomains.\n• **Performance and Stability Improvements** through routine backend updates to ensure a faster and more reliable experience across the platform."
   }
 ]
