@@ -1265,5 +1265,12 @@
     "start_date": "2026-11-13",
     "commit_count": 6,
     "release_notes": "• **Expanded Institutional Support** with the onboarding of Federal University Otuoke, providing a dedicated and secure grading environment tailored to their academic needs.\n• **Streamlined Portal Setup** featuring improved domain configuration guidance to help institutions easily set up and launch their custom subdomains.\n• **Performance and Stability Improvements** through routine backend updates to ensure a faster and more reliable experience across the platform."
+  },
+  {
+    "label": "Daily Update - Nov 18th",
+    "type": "day",
+    "start_date": "2026-11-18",
+    "commit_count": 7,
+    "release_notes": "• **Redesigned Instructor Dashboard**: Experience a fresh, modern home screen featuring a streamlined course guide layout, improved tab navigation, and full support for dark mode.\n• **Enhanced Mobile Performance**: Enjoy faster, more responsive AI-powered study tools and flashcard features on mobile devices.\n• **Improved File Exports**: Resolved issues that previously prevented successful lesson exports, slide downloads, and course image rendering.\n• **General Bug Fixes**: Fixed a bug that prevented profile updates from saving and implemented backend improvements for overall platform stability."
   }
 ]
