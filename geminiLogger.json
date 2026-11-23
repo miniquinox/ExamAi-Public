@@ -1272,5 +1272,12 @@
     "start_date": "2026-11-18",
     "commit_count": 7,
     "release_notes": "• **Redesigned Instructor Dashboard**: Experience a fresh, modern home screen featuring a streamlined course guide layout, improved tab navigation, and full support for dark mode.\n• **Enhanced Mobile Performance**: Enjoy faster, more responsive AI-powered study tools and flashcard features on mobile devices.\n• **Improved File Exports**: Resolved issues that previously prevented successful lesson exports, slide downloads, and course image rendering.\n• **General Bug Fixes**: Fixed a bug that prevented profile updates from saving and implemented backend improvements for overall platform stability."
+  },
+  {
+    "label": "Daily Update - Nov 23rd",
+    "type": "day",
+    "start_date": "2026-11-23",
+    "commit_count": 6,
+    "release_notes": "• **Streamlined exam creation**: Easily build exams in the cloud directly from the Course Guide using a simplified creation dialog and brief builder.\n• **Flexible lesson planning**: Concept Studio now lets you choose exactly which prior lessons an exam builds on, removing the requirement to include every previous lesson in a sequence.\n• **Visual updates to Course Guides**: Experience a cleaner, mobile-friendly layout on the web with new color-coded session cards (green for lessons, violet for assessments) to help you navigate your curriculum at a glance.\n• **Enhanced AI capabilities**: Upgraded our underlying AI models to deliver faster, more accurate rubric alignment, grading reviews, and self-testing.\n• **Improved sign-in reliability**: Resolved an issue that silently blocked users from signing in via institutional invite links if their computer's system clock was inaccurate.\n• **Performance improvements**: Optimized backend processing for smoother saving and generation of grading marking points."
   }
 ]
