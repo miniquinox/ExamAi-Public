@@ -1279,5 +1279,12 @@
     "start_date": "2026-11-23",
     "commit_count": 6,
     "release_notes": "• **Streamlined exam creation**: Easily build exams in the cloud directly from the Course Guide using a simplified creation dialog and brief builder.\n• **Flexible lesson planning**: Concept Studio now lets you choose exactly which prior lessons an exam builds on, removing the requirement to include every previous lesson in a sequence.\n• **Visual updates to Course Guides**: Experience a cleaner, mobile-friendly layout on the web with new color-coded session cards (green for lessons, violet for assessments) to help you navigate your curriculum at a glance.\n• **Enhanced AI capabilities**: Upgraded our underlying AI models to deliver faster, more accurate rubric alignment, grading reviews, and self-testing.\n• **Improved sign-in reliability**: Resolved an issue that silently blocked users from signing in via institutional invite links if their computer's system clock was inaccurate.\n• **Performance improvements**: Optimized backend processing for smoother saving and generation of grading marking points."
+  },
+  {
+    "label": "Daily Update - Nov 26th",
+    "type": "day",
+    "start_date": "2026-11-26",
+    "commit_count": 9,
+    "release_notes": "• **Introducing AI Homework Tutor**: Students on mobile and web can now access step-by-step guidance, customize tutoring styles, and easily manage daily help limits.\n• **Offline Exam Submissions**: Students sitting for physical exams without internet access can now securely save their work to an encrypted vault on their mobile device and upload it for grading once back online.\n• **Upgraded Presentation Decks**: Added 25 new layouts with multi-image support, mobile security protections, and integrated AI chat features, backed by smarter backend processing.\n• **Improved Quiz Grading**: Enhanced AI-powered evaluation for long-answer questions in both lesson and practice quizzes to ensure more accurate and consistent feedback.\n• **Usability Enhancements**: Enjoy a smoother login experience with automatic email formatting, seamless background saving during AI chats, and an easier way to leave App Store reviews on iOS devices."
   }
 ]
